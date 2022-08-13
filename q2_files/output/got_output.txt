@@ -1,0 +1,20 @@
+
+****************q2_files/input/l1-inp1.txt*************
+Time required is(in millisec): 91.399884 
+
+
+****************q2_files/input/l1-inp2.txt*************
+Time required is(in millisec): 76.407224 
+
+
+****************q2_files/input/l1-inp3.txt*************
+Time required is(in millisec): 79.764578 
+
+
+****************q2_files/input/l1-inp4.txt*************
+Time required is(in millisec): 79.152201 
+
+
+****************q2_files/input/l1-inp5.txt*************
+Time required is(in millisec): 76.337308 
+

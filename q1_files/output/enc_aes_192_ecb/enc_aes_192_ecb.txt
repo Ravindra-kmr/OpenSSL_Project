@@ -1,0 +1,121 @@
+
+**********************************enc_aes_192_ecb_test10.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 0.039972
+Time required per block(in nanosec): 62.456025
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test11.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 3.448800
+Time required per block(in nanosec): 52.624512
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test12.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 2.626398
+Time required per block(in nanosec): 40.075653
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test13.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 1.727486
+Time required per block(in nanosec): 26.359344
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test14.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 1.634161
+Time required per block(in nanosec): 24.935318
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test15.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 1.663970
+Time required per block(in nanosec): 25.390167
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test16.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 1.507047
+Time required per block(in nanosec): 22.995712
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test17.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 1.505592
+Time required per block(in nanosec): 22.973511
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test18.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 1.528897
+Time required per block(in nanosec): 23.329117
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test19.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 1.523147
+Time required per block(in nanosec): 23.241379
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test1.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 0.035601
+Time required per block(in nanosec): 55.626562
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test20.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 1.542715
+Time required per block(in nanosec): 23.539963
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test2.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 0.075903
+Time required per block(in nanosec): 118.598438
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test3.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 0.042738
+Time required per block(in nanosec): 66.778125
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test4.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 0.039370
+Time required per block(in nanosec): 61.515625
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test5.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 0.055721
+Time required per block(in nanosec): 87.064063
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test6.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 0.043379
+Time required per block(in nanosec): 67.779687
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test7.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 0.048968
+Time required per block(in nanosec): 76.512500
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test8.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 0.036818
+Time required per block(in nanosec): 57.528125
+
+***********************DONE***********************
+
+**********************************enc_aes_192_ecb_test9.dat**********************************
+Please enter the passphrase: Time required is(in millisec): 0.037458
+Time required per block(in nanosec): 58.528125
+
+***********************DONE***********************
+

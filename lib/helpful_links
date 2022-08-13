@@ -1,0 +1,19 @@
+gcc helper.c  ~/openssl-3.0.0/*.so.3
+
+
+
+
+gcc -s -o aes aes.c /usr/lib/x86_64-linux-gnu/libcrypto.a
+ls /usr/lib/x86_64-linux-gnu/libcrypto.*
+grep EVP_CIPHER_get_key_length ~/openssl-3.0.0/*.so.3
+
+
+Stack overflow:
+https://stackoverflow.com/questions/35130738/c-error-when-linking-with-openssl-library-dynamically
+
+http://theshybulb.com/2015/10/10/use-openssl-c-library.html
+https://gist.github.com/mythosil/1292283
+
+http://aes.online-domain-tools.com/
+
+https://eclipsesource.com/blogs/2017/01/17/tutorial-aes-encryption-and-decryption-with-openssl/

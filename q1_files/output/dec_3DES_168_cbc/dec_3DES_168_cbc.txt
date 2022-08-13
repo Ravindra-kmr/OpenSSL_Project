@@ -1,0 +1,121 @@
+
+**********************************dec_3DES_168_cbc_test10.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 0.564173
+Time required per block(in nanosec): 400.691051
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test11.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 47.455966
+Time required per block(in nanosec): 361.707058
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test12.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 41.998279
+Time required per block(in nanosec): 320.108834
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test13.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 41.483446
+Time required per block(in nanosec): 316.184802
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test14.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 39.712594
+Time required per block(in nanosec): 302.687454
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test15.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 41.250969
+Time required per block(in nanosec): 314.412873
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test16.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 40.764212
+Time required per block(in nanosec): 310.702835
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test17.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 41.099358
+Time required per block(in nanosec): 313.257302
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test18.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 42.995841
+Time required per block(in nanosec): 327.712203
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test19.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 39.876159
+Time required per block(in nanosec): 303.934139
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test1.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 0.403931
+Time required per block(in nanosec): 286.882812
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test20.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 38.445478
+Time required per block(in nanosec): 293.029558
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test2.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 0.420193
+Time required per block(in nanosec): 298.432528
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test3.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 0.411222
+Time required per block(in nanosec): 292.061080
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test4.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 0.420506
+Time required per block(in nanosec): 298.654830
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test5.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 0.423373
+Time required per block(in nanosec): 300.691051
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test6.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 0.410570
+Time required per block(in nanosec): 291.598011
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test7.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 0.446131
+Time required per block(in nanosec): 316.854403
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test8.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 0.458525
+Time required per block(in nanosec): 325.656960
+
+***********************DONE***********************
+
+**********************************dec_3DES_168_cbc_test9.dat.enc**********************************
+Please enter the passphrase: Time required is(in millisec): 0.432933
+Time required per block(in nanosec): 307.480824
+
+***********************DONE***********************
+
